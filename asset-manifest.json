@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Restaurant_app/static/css/main.c9511008.css",
+    "main.js": "/Restaurant_app/static/js/main.04b5bcdc.js",
+    "static/media/roboto.ttf": "/Restaurant_app/static/media/roboto.459379f8e8d3e82cccd4.ttf",
+    "static/media/hero-slider-3.jpg": "/Restaurant_app/static/media/hero-slider-3.5e8001288bfb994df3b0.jpg",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/Restaurant_app/static/media/PlayfairDisplay-Italic-VariableFont_wght.597cf3569777ae281144.ttf",
+    "static/media/hero-slider-1.jpg": "/Restaurant_app/static/media/hero-slider-1.5d6b1261aee9578c7890.jpg",
+    "static/media/footer-bg.jpg": "/Restaurant_app/static/media/footer-bg.70137cc48cb63d996d15.jpg",
+    "static/media/Forum-Regular.ttf": "/Restaurant_app/static/media/Forum-Regular.6b8e836eb36b2f54db9a.ttf",
+    "static/media/special-dish-banner_pumpkin.jpg": "/Restaurant_app/static/media/special-dish-banner_pumpkin.a74d0c765414d6cb0c2d.jpg",
+    "static/media/about-banner.jpg": "/Restaurant_app/static/media/about-banner.d8970df6c874afa76e83.jpg",
+    "static/media/hero-slider-2.jpg": "/Restaurant_app/static/media/hero-slider-2.98030cf1d4449f683c8e.jpg",
+    "static/media/testimonial-bg.jpg": "/Restaurant_app/static/media/testimonial-bg.a81086b826a2e2978ce3.jpg",
+    "static/media/img-pattern.svg": "/Restaurant_app/static/media/img-pattern.148d9c075c75a3e657f763f872f03b63.svg",
+    "static/media/event-1.jpg": "/Restaurant_app/static/media/event-1.5aa871abc9b8cb5c6d68.jpg",
+    "static/media/profile.jpg": "/Restaurant_app/static/media/profile.1283f9c3df3ec5532067.jpg",
+    "static/media/event-2.jpg": "/Restaurant_app/static/media/event-2.a679b65670e9ff26bd72.jpg",
+    "static/media/shape-5.png": "/Restaurant_app/static/media/shape-5.bd2617fcd17e98d4fb1a.png",
+    "static/media/service-3.jpg": "/Restaurant_app/static/media/service-3.88a4fe36404bc5e02769.jpg",
+    "static/media/about-abs-image.jpg": "/Restaurant_app/static/media/about-abs-image.ee12692b034b066f8444.jpg",
+    "static/media/service-1.jpg": "/Restaurant_app/static/media/service-1.7157d0cabba158f86dc5.jpg",
+    "static/media/footer-form-pattern.svg": "/Restaurant_app/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
+    "static/media/event-3.jpg": "/Restaurant_app/static/media/event-3.82c6609059459252448c.jpg",
+    "static/media/shape-6.png": "/Restaurant_app/static/media/shape-6.d9f18f13ec963b9bbdf4.png",
+    "static/media/footer-form-bg.png": "/Restaurant_app/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
+    "static/media/form-pattern.png": "/Restaurant_app/static/media/form-pattern.1b0559e0aa951b970a3a.png",
+    "static/media/shape-2.png": "/Restaurant_app/static/media/shape-2.70efc621025dee1d0cd0.png",
+    "static/media/shape-1.png": "/Restaurant_app/static/media/shape-1.49c2515366d3a9d70158.png",
+    "index.html": "/Restaurant_app/index.html",
+    "main.c9511008.css.map": "/Restaurant_app/static/css/main.c9511008.css.map",
+    "main.04b5bcdc.js.map": "/Restaurant_app/static/js/main.04b5bcdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9511008.css",
+    "static/js/main.04b5bcdc.js"
+  ]
+}
