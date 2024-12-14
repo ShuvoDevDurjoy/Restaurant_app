@@ -27,32 +27,17 @@
   "orientation": "portrait",
   "screenshots": [
     {
-      "src": "static/media/screenshoot-1.png",
+      "src": "static/media/hero-slider-1.5d6b1261aee9578c7890.jpg",
       "sizes": "640x480",
       "type": "image/png"
     },
     {
-      "src": "static/media/screenshoot-2.png",
+      "src": "static/media/special-dish-banner_pumpkin.a74d0c765414d6cb0c2d.jpg",
       "sizes": "640x480",
       "type": "image/png"
     },
     {
-      "src": "static/media/screenshoot-3.png",
-      "sizes": "640x480",
-      "type": "image/png"
-    },
-    {
-      "src": "static/media/screenshoot-4.png",
-      "sizes": "640x480",
-      "type": "image/png"
-    },
-    {
-      "src": "static/media/screenshoot-5.png",
-      "sizes": "640x480",
-      "type": "image/png"
-    },
-    {
-      "src": "static/media/screenshoot-6.png",
+      "src": "static/media/event-1.5aa871abc9b8cb5c6d68.jpg",
       "sizes": "640x480",
       "type": "image/png"
     }
