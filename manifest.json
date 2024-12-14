@@ -1,25 +1,62 @@
 {
-  "short_name": "Hurger's Choice",
+  "short_name": "Hunger's Choice",
   "name": "Hunger's Choice Restaurant App",
+  "description": "A restaurant app that offers a variety of food choices.",
   "icons": [
     {
-      "src": "title_bar_logo.svg",
+      "src": "static/media/title_bar_logo.svg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "purpose": "any"
     },
     {
-      "src": "title_bar_logo.svg",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "static/media/title_bar_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "title_bar_logo.svg",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "static/media/title_bar_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "static/media/screenshoot-1.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/screenshoot-2.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/screenshoot-3.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/screenshoot-4.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/screenshoot-5.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/screenshoot-6.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["Food & Drink", "Restaurant"],
+  "lang": "en"
 }

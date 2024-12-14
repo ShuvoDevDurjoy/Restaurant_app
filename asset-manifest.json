@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Restaurant_app/static/css/main.d8597c8c.css",
-    "main.js": "/Restaurant_app/static/js/main.08c86176.js",
+    "main.css": "/Restaurant_app/static/css/main.15addcc8.css",
+    "main.js": "/Restaurant_app/static/js/main.0a1502c6.js",
     "static/media/roboto.ttf": "/Restaurant_app/static/media/roboto.459379f8e8d3e82cccd4.ttf",
     "static/media/hero-slider-3.jpg": "/Restaurant_app/static/media/hero-slider-3.5e8001288bfb994df3b0.jpg",
     "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/Restaurant_app/static/media/PlayfairDisplay-Italic-VariableFont_wght.597cf3569777ae281144.ttf",
@@ -28,11 +28,11 @@
     "static/media/shape-2.png": "/Restaurant_app/static/media/shape-2.70efc621025dee1d0cd0.png",
     "static/media/shape-1.png": "/Restaurant_app/static/media/shape-1.49c2515366d3a9d70158.png",
     "index.html": "/Restaurant_app/index.html",
-    "main.d8597c8c.css.map": "/Restaurant_app/static/css/main.d8597c8c.css.map",
-    "main.08c86176.js.map": "/Restaurant_app/static/js/main.08c86176.js.map"
+    "main.15addcc8.css.map": "/Restaurant_app/static/css/main.15addcc8.css.map",
+    "main.0a1502c6.js.map": "/Restaurant_app/static/js/main.0a1502c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8597c8c.css",
-    "static/js/main.08c86176.js"
+    "static/css/main.15addcc8.css",
+    "static/js/main.0a1502c6.js"
   ]
 }
