@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Restaurant_app/static/css/main.3f7de6ba.css",
+    "main.css": "/Restaurant_app/static/css/main.d8597c8c.css",
     "main.js": "/Restaurant_app/static/js/main.08c86176.js",
     "static/media/roboto.ttf": "/Restaurant_app/static/media/roboto.459379f8e8d3e82cccd4.ttf",
     "static/media/hero-slider-3.jpg": "/Restaurant_app/static/media/hero-slider-3.5e8001288bfb994df3b0.jpg",
@@ -28,11 +28,11 @@
     "static/media/shape-2.png": "/Restaurant_app/static/media/shape-2.70efc621025dee1d0cd0.png",
     "static/media/shape-1.png": "/Restaurant_app/static/media/shape-1.49c2515366d3a9d70158.png",
     "index.html": "/Restaurant_app/index.html",
-    "main.3f7de6ba.css.map": "/Restaurant_app/static/css/main.3f7de6ba.css.map",
+    "main.d8597c8c.css.map": "/Restaurant_app/static/css/main.d8597c8c.css.map",
     "main.08c86176.js.map": "/Restaurant_app/static/js/main.08c86176.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f7de6ba.css",
+    "static/css/main.d8597c8c.css",
     "static/js/main.08c86176.js"
   ]
 }
